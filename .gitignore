@@ -1,0 +1,13 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Env
+.env
+venv/
+.venv/
